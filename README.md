@@ -3,11 +3,11 @@ react_webpack test
 
 1.安装脚手架工具
   http://yeoman.io/generators/   <br/>
-  npm install -g yo
-  npm install -g generator-react-webpack
+  npm install -g yo  <br/>
+  npm install -g generator-react-webpack  <br/>
   
-  # Create a new directory, and `cd` into it:
-  mkdir my-new-project && cd my-new-project
+  # Create a new directory, and `cd` into it:  <br/>
+  mkdir my-new-project && cd my-new-project  <br/>
 
-  # Run the generator
-  yo react-webpack
+  # Run the generator  <br/>
+  yo react-webpack  <br/>
