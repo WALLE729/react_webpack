@@ -2,7 +2,7 @@
 react_webpack test
 
 1.安装脚手架工具
-  http://yeoman.io/generators/
+  http://yeoman.io/generators/   <br/>
   npm install -g yo
   npm install -g generator-react-webpack
   
