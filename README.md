@@ -1,7 +1,7 @@
 # react_webpack
 react_webpack test
 
-1.安装脚手架工具
+方案一：使用脚手架工具
   http://yeoman.io/generators/   <br/>
   npm install -g yo  <br/>
   npm install -g generator-react-webpack  <br/>
@@ -11,3 +11,7 @@ react_webpack test
 
   # Run the generator  <br/>
   yo react-webpack  <br/>
+  
+  
+  方案二：自己动手搭建
+  
