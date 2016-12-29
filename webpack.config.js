@@ -3,10 +3,11 @@ module.exports={
 	output:{
 		filename:'bundle.js'//出口文件
 	},
-	devtool:'source-map',//直接生成source-map
+	devtool:'source-map',//直接生成source-map,方便在控制台调试代码
 	devServer:{
 		port:8088,
-		inline:true
+		inline:true,
+		
 	},
 	module:{
 		loaders:[
